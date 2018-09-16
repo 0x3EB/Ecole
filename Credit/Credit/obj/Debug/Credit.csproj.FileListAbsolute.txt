@@ -1,0 +1,9 @@
+c:\users\slejeune\documents\visual studio 2015\Projects\Credit\Credit\bin\Debug\Credit.exe.config
+c:\users\slejeune\documents\visual studio 2015\Projects\Credit\Credit\bin\Debug\Credit.exe
+c:\users\slejeune\documents\visual studio 2015\Projects\Credit\Credit\bin\Debug\Credit.pdb
+c:\users\slejeune\documents\visual studio 2015\Projects\Credit\Credit\obj\Debug\Credit.csprojResolveAssemblyReference.cache
+c:\users\slejeune\documents\visual studio 2015\Projects\Credit\Credit\obj\Debug\Credit.Form1.resources
+c:\users\slejeune\documents\visual studio 2015\Projects\Credit\Credit\obj\Debug\Credit.Properties.Resources.resources
+c:\users\slejeune\documents\visual studio 2015\Projects\Credit\Credit\obj\Debug\Credit.csproj.GenerateResource.Cache
+c:\users\slejeune\documents\visual studio 2015\Projects\Credit\Credit\obj\Debug\Credit.exe
+c:\users\slejeune\documents\visual studio 2015\Projects\Credit\Credit\obj\Debug\Credit.pdb
