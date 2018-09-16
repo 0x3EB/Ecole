@@ -1,0 +1,8 @@
+/Volumes/NO NAME/WindowsFormsApplication4/WindowsFormsApplication4/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Volumes/NO NAME/WindowsFormsApplication4/WindowsFormsApplication4/obj/Debug/WindowsFormsApplication4.Form1.resources
+/Volumes/NO NAME/WindowsFormsApplication4/WindowsFormsApplication4/obj/Debug/WindowsFormsApplication4.Properties.Resources.resources
+/Volumes/NO NAME/WindowsFormsApplication4/WindowsFormsApplication4/obj/Debug/WindowsFormsApplication4.exe
+/Volumes/NO NAME/WindowsFormsApplication4/WindowsFormsApplication4/obj/Debug/WindowsFormsApplication4.pdb
+/Volumes/NO NAME/WindowsFormsApplication4/WindowsFormsApplication4/bin/Debug/WindowsFormsApplication4.exe.config
+/Volumes/NO NAME/WindowsFormsApplication4/WindowsFormsApplication4/bin/Debug/WindowsFormsApplication4.pdb
+/Volumes/NO NAME/WindowsFormsApplication4/WindowsFormsApplication4/bin/Debug/WindowsFormsApplication4.exe
